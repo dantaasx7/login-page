@@ -1,2 +1,2 @@
 # Login Page
-Página de login responsiva, ultilizei HTML e CSS na criação.
+Página de login simples responsiva, ultilizei HTML e CSS na criação.
